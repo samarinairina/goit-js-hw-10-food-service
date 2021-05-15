@@ -12,7 +12,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/samarinairina/goit-js-hw-10-food-service.git"
-    
   },
   "keywords": [],
   "author": "Samarina Irina <samarinairina2017@gmail.com>",
@@ -20,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/samarinairina/goit-js-hw-10-food-service.git"
   },
-  "homepage": "https://github.com/samarinairina/goit-js-hw-10-food-service.git",
+  "homepage": "https://samarinairina.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",

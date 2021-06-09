@@ -5,7 +5,8 @@ const refs = {
     body: document.querySelector('body'),
     ulMenu: document.querySelector('.js-menu'),
     themeSwitch: document.querySelector('#theme-switch-toggle'),
-}
+
+    }
 
 const markupLi = markup(menu);
 
